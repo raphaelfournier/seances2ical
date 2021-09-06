@@ -1,0 +1,8 @@
+,,,,,,,,,,,,,,,,
+,code UE,S,date,début,fin,durée,type,n,enseignant,salle,sujet,,,,,
+,ABC123,1,21/09/2021,14h30,16h30,2h00,CM,1,Alice,N204,Intro Data science,,S1,CM,TP,HTD
+,ABC123,1,21/09/2021,16h45,18h45,2h00,TP,,Alice,C32,TP1 Intro Spark,,Alice,18,18,45
+,ABC123,1,22/09/2021,15h15,17h15,2h00,TP,,Bob,B46,TP1 Intro Spark,,Raphaël,12,12,30
+,ABC123,1,23/09/2021,14h30,16h30,2h00,CM,2,Raphaël,N204,Intro Data Viz,,Bob,0,30,30
+,ABC123,1,23/09/2021,16h45,18h45,2h00,TP,,Raphaël,B45,TP2 Data viz,,Totaux,30,60,105
+,ABC123,1,24/09/2021,15h15,17h15,2h00,TP,,Bob,B46,TP2 Data viz,,,,,
